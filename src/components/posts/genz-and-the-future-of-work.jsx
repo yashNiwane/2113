@@ -15,7 +15,7 @@ excerpt:"",
 
 content: [
 {type: "paragraph", text:"Gen Z is the latest generation to enter the workforce, and they're making waves.  Often labeled as 'entitled' or 'lazy,' Gen Z has a drastically different perspective on work compared to previous generations.  But are their demands truly unreasonable, or are they simply symptoms of a changing world and evolving priorities?"},
-
+{type: "image", src: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLXGyu2a0h87lFT_Q5rqehVtNLfUrceq69aORlkLhfy0chkWKKi3mW6tk6dSLU89uNoTY7TfaaScNPK_rMFoR2wOEXEaYT_pa0UvntwQhy16DE05FNR-k3GBxpA-qVsCCWTlkyjcE4sVGKKkBSebq1fuK7Da1rnEm-dHmQ51buJf-ft6hyphenhyphenWsP45uZ9l70/w573-h317/generationZ-01.png", alt: "Gen Z and the Future of Work"},
 {type: "heading", level: 2, text: "The Gen Z Difference: A New Set of Values"},
 
 {type: "paragraph", text:"Born between 1997 and 2012, Gen Z grew up alongside the rise of the internet and social media. They are digital natives with instant access to information and a globalized perspective. This upbringing has shaped their values, and those values are spilling over into their work expectations."},
